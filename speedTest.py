@@ -3,10 +3,10 @@ import time
 # import Day01.part2 as B01
 # import Day02.part1 as A02
 # import Day02.part2 as B02
-import Day03.part1 as A03
-import Day03.part2 as B03
-# import Day04.part1 as A04
-# import Day04.part2 as B04
+# import Day03.part1 as A03
+# import Day03.part2 as B03
+import Day04.part1 as A04
+import Day04.part2 as B04
 # import Day05.part1 as A05
 # import Day05.part2 as B05
 # import Day06.part1 as A06
@@ -40,10 +40,10 @@ def speedTest(func):
 # speedTest(B01)
 # speedTest(A02)
 # speedTest(B02)
-speedTest(A03)
-speedTest(B03)
-# speedTest(A04)
-# speedTest(B04)
+# speedTest(A03)
+# speedTest(B03)
+speedTest(A04)
+speedTest(B04)
 # speedTest(A05)
 # speedTest(B05)
 # speedTest(A06)
